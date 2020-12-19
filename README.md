@@ -18,5 +18,5 @@ Please check out the [Closed Issues](https://github.com/Lucie-Wang/ama/issues?q=
   <li> Ensure your question hasn't already been answered</li>
   <li> Use a succinct title and description </li>
   <li> Be civil and polite </li>
-  <li> I reserve the rights to not answer any questions that are not considered appropriate </li>
+  <li> @Lucie-Wang reserves the rights to not answer any questions that are not considered appropriate </li>
 </ul>
